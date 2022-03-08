@@ -1,0 +1,15 @@
+C:\Users\kwin8\Documents\Revature Worksspace\RevatureCodingChallenge03082022\fibo-even-sum\obj\Debug\net6.0\Fibo-even-sum.csproj.AssemblyReference.cache
+C:\Users\kwin8\Documents\Revature Worksspace\RevatureCodingChallenge03082022\fibo-even-sum\obj\Debug\net6.0\Fibo-even-sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwin8\Documents\Revature Worksspace\RevatureCodingChallenge03082022\fibo-even-sum\obj\Debug\net6.0\Fibo-even-sum.AssemblyInfoInputs.cache
+C:\Users\kwin8\Documents\Revature Worksspace\RevatureCodingChallenge03082022\fibo-even-sum\obj\Debug\net6.0\Fibo-even-sum.AssemblyInfo.cs
+C:\Users\kwin8\Documents\Revature Worksspace\RevatureCodingChallenge03082022\fibo-even-sum\obj\Debug\net6.0\Fibo-even-sum.csproj.CoreCompileInputs.cache
+C:\Users\kwin8\Documents\Revature Worksspace\RevatureCodingChallenge03082022\fibo-even-sum\bin\Debug\net6.0\Fibo-even-sum.exe
+C:\Users\kwin8\Documents\Revature Worksspace\RevatureCodingChallenge03082022\fibo-even-sum\bin\Debug\net6.0\Fibo-even-sum.deps.json
+C:\Users\kwin8\Documents\Revature Worksspace\RevatureCodingChallenge03082022\fibo-even-sum\bin\Debug\net6.0\Fibo-even-sum.runtimeconfig.json
+C:\Users\kwin8\Documents\Revature Worksspace\RevatureCodingChallenge03082022\fibo-even-sum\bin\Debug\net6.0\Fibo-even-sum.dll
+C:\Users\kwin8\Documents\Revature Worksspace\RevatureCodingChallenge03082022\fibo-even-sum\bin\Debug\net6.0\ref\Fibo-even-sum.dll
+C:\Users\kwin8\Documents\Revature Worksspace\RevatureCodingChallenge03082022\fibo-even-sum\bin\Debug\net6.0\Fibo-even-sum.pdb
+C:\Users\kwin8\Documents\Revature Worksspace\RevatureCodingChallenge03082022\fibo-even-sum\obj\Debug\net6.0\Fibo-even-sum.dll
+C:\Users\kwin8\Documents\Revature Worksspace\RevatureCodingChallenge03082022\fibo-even-sum\obj\Debug\net6.0\ref\Fibo-even-sum.dll
+C:\Users\kwin8\Documents\Revature Worksspace\RevatureCodingChallenge03082022\fibo-even-sum\obj\Debug\net6.0\Fibo-even-sum.pdb
+C:\Users\kwin8\Documents\Revature Worksspace\RevatureCodingChallenge03082022\fibo-even-sum\obj\Debug\net6.0\Fibo-even-sum.genruntimeconfig.cache
